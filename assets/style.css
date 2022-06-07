@@ -1,0 +1,19 @@
+.bg-success {
+    background-color: rgb(55, 163, 140) !important;
+}
+
+.text-success {
+    color: rgb(55, 163, 140) !important;
+}
+
+.border-secondary {
+    border-color: rgb(167, 165, 165) !important;
+}
+
+hr {
+    height: 2px !important;
+}
+
+.ms-1 {
+    margin-left: 2px !important;
+}
